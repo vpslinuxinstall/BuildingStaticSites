@@ -10,7 +10,8 @@
         "-search",
         "search-plus",
         "copy-code-button",
-        "alerts"
+        "alerts",
+        "lightbox"
     ],
     "pluginsConfig": {
   "prism": {
@@ -24,3 +25,4 @@
 }
 
 }
+
